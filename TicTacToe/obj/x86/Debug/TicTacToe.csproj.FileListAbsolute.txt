@@ -1,0 +1,11 @@
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.TicTacToe.resources
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csproj.GenerateResource.Cache
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Settings.resources
+D:\Alex\Informatica\C#\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\Alex\Informatica\Jocuri\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+D:\Alex\Informatica\Jocuri\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
